@@ -2,7 +2,7 @@ this is the first test txt
 
 for how to use the vi
 
-
+today is 23/11/2018
 
 
 
