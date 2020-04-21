@@ -146,3 +146,54 @@ chmod 777 doc
 ls -la doc
 sudo 
 su root
+git status
+git commit -am "add new file hello.txt"
+git status
+commit push original master
+git push original master
+ls
+sudo root
+git push original master
+ls -la
+su root
+git status
+curl https://api.github.com/repos/Rodger-Yang/
+curl https://api.github.com/repos/Rodger-Yang/doc
+find / -name ".git"
+su
+git branch
+ls
+git checkout
+git branch
+git log
+su root
+Yc997273
+sudo ls -la /root
+docker images
+su root
+restart
+su root
+git rev-parse --show-toplevel
+su 
+awk -F: '{ print $1}' /etc/passwd
+awk -F: '{ print $2}' /etc/passwd
+awk -F: '{ print $1,$2}' /etc/passwd
+ls /dev
+cd /boot
+ls
+cd ..
+cd /var
+ls
+cd mysql
+cd ..
+ls
+ls /mnt
+ls /mnt/win
+ls
+last
+df
+free
+free -m
+du
+du -h
+who
